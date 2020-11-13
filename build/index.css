@@ -1,0 +1,19 @@
+/**
+ * The following styles get applied inside the editor only.
+ *
+ * Replace them with your own styles or remove the file completely.
+ */
+a.acfb_accordion_content {
+  display: block;
+  font-weight: 600;
+  padding: 10px 20px;
+  outline: none;
+  background: #f3f4f5;
+  color: #191e23;
+  text-align: left; }
+
+.acfb_accordion_content {
+  cursor: pointer; }
+
+
+/*# sourceMappingURL=index.css.map*/
